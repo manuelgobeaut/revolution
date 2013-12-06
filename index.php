@@ -20,6 +20,7 @@
  * Place, Suite 330, Boston, MA 02111-1307 USA
  *
  */
+ /*Ajout d'une ligne de commentaire*/
 $mtime= microtime();
 $mtime= explode(" ", $mtime);
 $mtime= $mtime[1] + $mtime[0];
